@@ -1,2 +1,2 @@
 # CS201-Wiki
-Wikipedia Web Semi Clone
+Platform Based Multimedia Lab Hands On Exercise - (Wikipedia Web Inspired Clone Site)
